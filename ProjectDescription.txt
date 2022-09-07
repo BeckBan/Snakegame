@@ -1,0 +1,5 @@
+
+OOD: Python Snake Game
+- A snake game following basic OOD principles using Python and Turtle for GUI.
+- Implemented multiple objects based on Turtle and integrated them on a shared screen to support the game logic.
+- Enabled scoring system and persisted the highest score in the file system.
